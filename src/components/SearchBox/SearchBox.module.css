@@ -1,0 +1,10 @@
+.serch {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.field {
+    max-width: 294px;
+    padding: 3px;
+}
